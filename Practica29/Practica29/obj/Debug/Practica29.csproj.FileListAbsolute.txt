@@ -1,0 +1,11 @@
+C:\Users\Estudiante\source\repos\Practica29\Practica29\bin\Debug\Practica29.exe.config
+C:\Users\Estudiante\source\repos\Practica29\Practica29\bin\Debug\Practica29.exe
+C:\Users\Estudiante\source\repos\Practica29\Practica29\bin\Debug\Practica29.pdb
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.Form1.resources
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.exe
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.pdb
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.User.resources
+C:\Users\Estudiante\source\repos\Practica29\Practica29\obj\Debug\Practica29.csproj.AssemblyReference.cache
